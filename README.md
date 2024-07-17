@@ -18,9 +18,9 @@
   
   <li><strong>Setup Database:</strong><br>
     <ul>
-      <li>Create a MySQL database named <code>detailss</code>. I've used MySQL Workbench here.</li>
-      <li>Create a table named <code>person</code>.</li>
-      <li>Populate the table with user data.</li>
+      <li>Create a MySQL database named <code>attendance</code>. I've used MySQL Workbench here.</li>
+      <li>Create a table named <code>student</code>.</li>
+      <li>Populate the table with student data.</li>
     </ul></li>
   
   <li><strong>Prepare Dataset:</strong><br>
@@ -41,8 +41,15 @@
 </ol>
 
 <h2>Screenshots</h2>
-<p><img src="Screenshot 2024-07-17 225947.png" alt="Screenshot 1"><br>
-<em>Caption: Main Interface of the Face Recognition Software.</em></p>
+<em><b>Main Interface of the Face Recognition Software.</b></em></p>
+<p><img src="Project SS/UI.png" alt="Screenshot 1" width="620" height="400"><br></p>
+<p><img src="Project SS/fig1.png" alt="Screenshot 2" width="620" height="400"><br>
+
+<em><b>Face Recognised.</b></em></p>
+<p><img src="Project SS/Face Recog.png" alt="Screenshot 3" width="620" height="400"><br>
+
+<em><b>Attendance Record in CSV File.</b></em></p>
+<p><img src="Project SS/Records.png" alt="Screenshot 4" width="810" height="300"><br>
 
 <hr>
 
